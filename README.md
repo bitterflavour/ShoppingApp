@@ -1,1 +1,2 @@
-Java ShoppingApp in NetBeans
+Java ShoppingApp in NetBeans 
+Java + MySql
